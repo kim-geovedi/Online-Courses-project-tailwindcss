@@ -7,11 +7,11 @@
         background-clip: text !important;
         -webkit-text-fill-color: transparent;
         -webkit-background-clip: text;
-        background: linear-gradient(90deg, #71D0F7 0%, rgba(255, 255, 255, 0.76) 48.44%, #E6834A 100%);
+        background: linear-gradient(90deg, #71D0F7 0%, rgba(255, 255, 255, 0.76) 48.44%, #FFFFFF 100%);
     }
 
     .gradient-badge{
-        background: linear-gradient(180deg, #FF692E 0%, #FFF5F2 0.01%, #FFD8C8 100%);
+        background: linear-gradient(180deg, #3525B3 0%, #D1C6FC 0.01%, #8C71F7 100%);
     }
 
     .pause-animate{
